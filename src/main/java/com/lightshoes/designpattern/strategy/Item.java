@@ -3,10 +3,18 @@ package com.lightshoes.designpattern.strategy;
 public class Item {
 
     private String name;
-    private String price;
+    private int cost;
 
-    public Item(String name, String price) {
+    public Item(String name, int cost) {
         this.name = name;
-        this.price = price;
+        this.cost = cost;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getCost() {
+        return cost;
     }
 }
