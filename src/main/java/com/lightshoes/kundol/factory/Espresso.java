@@ -1,4 +1,4 @@
-package com.lightshoes.designpattern.factory;
+package com.lightshoes.kundol.factory;
 
 public class Espresso extends Coffee {
 

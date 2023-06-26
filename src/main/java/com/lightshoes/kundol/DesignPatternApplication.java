@@ -1,4 +1,4 @@
-package com.lightshoes.designpattern;
+package com.lightshoes.kundol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

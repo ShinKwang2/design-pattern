@@ -1,4 +1,4 @@
-package com.lightshoes.designpattern.strategy;
+package com.lightshoes.kundol.strategy;
 
 public class KAKAOCardStrategy implements PaymentStrategy {
 

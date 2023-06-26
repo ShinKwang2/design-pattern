@@ -1,10 +1,10 @@
-package com.lightshoes.designpattern.factory;
+package com.lightshoes.kundol.factory;
 
-public class Latte extends Coffee {
+public class Americano extends Coffee {
 
     private int price;
 
-    public Latte(int price) {
+    public Americano(int price) {
         this.price = price;
     }
 

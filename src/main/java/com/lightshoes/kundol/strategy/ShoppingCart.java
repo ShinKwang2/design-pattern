@@ -1,4 +1,4 @@
-package com.lightshoes.designpattern.strategy;
+package com.lightshoes.kundol.strategy;
 
 import java.util.ArrayList;
 import java.util.List;
